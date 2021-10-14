@@ -1,0 +1,19 @@
+body{
+background-color:coral;
+}
+img{
+    border-radius: 50%;
+    
+}
+table{
+    background-color:darkcyan;
+    margin: auto;
+    width: 1500px;
+    height: 400px;
+}
+.IMG{
+    height: 50 px;
+}
+td{
+    text-align: center;
+}
